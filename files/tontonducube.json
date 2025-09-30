@@ -1,0 +1,18 @@
+{
+  "id": "1",
+  "inheritsFrom": "1.21.8",
+  "time": "2025-09-30T12:00:00+00:00",
+  "releaseTime": "2025-09-30T12:00:00+00:00",
+  "type": "release",
+  "mainClass": "net.minecraft.client.main.Main",
+  "arguments": {
+    "game": []
+  },
+  "libraries": [],
+  "downloads": {
+    "client": {
+      "url": "https://tonpseudo.github.io/minecraft-launcher-files/files/minecraft.jar",
+      "sha1": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }
+  }
+}

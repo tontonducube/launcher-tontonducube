@@ -11,9 +11,10 @@
   "libraries": [],
   "downloads": {
     "client": {
-      "url": "https://tontonducube.github.io/minecraft-launcher-files/files/minecraft.jar",
+      "url": "https://tontonducube.github.io/minecraft-launcher/files/minecraft.jar",
       "sha1": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     }
   }
 }
+
 

@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "minecraftVersion": "1.21.8",
+  "files": [
+    {
+      "url": "https://github.com/tontonducube/launcher-tontonducube/raw/main/files/minecraft-1.21.8.jar",
+      "target": "versions/1.21.8/minecraft-1.21.8.jar"
+    },
+    {
+      "url": "https://github.com/tontonducube/launcher-tontonducube/raw/main/files/resourcepacks/monpack.zip",
+      "target": "resourcepacks/monpack.zip"
+    },
+    {
+      "url": "https://github.com/tontonducube/launcher-tontonducube/raw/main/files/mods/mod1.jar",
+      "target": "mods/mod1.jar"
+    }
+  ]
+}
